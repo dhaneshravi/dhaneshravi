@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhansh Kumar
 - 👀 I’m interested in web development mainly using microsoft technologies
-- 🌱 I’m currently working as senior software engineer 
+- 🌱 I’m currently working as a senior software engineer 
 - 💞️ I would like to explore new things
 - 📫 rech me at dhaneshravi@gmail.com
 
